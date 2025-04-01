@@ -1,0 +1,42 @@
+active_keywords:
+  - das host
+  - poi
+  - plugin card
+  - sfp
+  - management unit
+  - power supply
+  - rectifier
+  - remote
+  - rf module
+  - repeater
+  - digital power
+  - voltserver
+  - optical port
+  - rfd
+  - sui
+  - trx
+  - mrou
+  - mprou
+
+passive_keywords:
+  - antenna
+  - coax
+  - jumper
+  - connector
+  - fiber
+  - patch panel
+  - splice box
+  - cabinet
+  - blank panel
+  - splitter
+  - coupler
+  - combiner
+  - attenuator
+  - mounting kit
+  - rack
+
+ignore_if_contains:
+  - inventory#
+  - created on
+  - description
+  - page
